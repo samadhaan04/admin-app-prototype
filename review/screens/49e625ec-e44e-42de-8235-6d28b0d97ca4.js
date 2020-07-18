@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595017630847.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595017630847-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595017630847-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595105765420.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595105765420-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595105765420-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-49e625ec-e44e-42de-8235-6d28b0d97ca4" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer commentable non-processed" alignment="left" name="invalid-green-complaint" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/49e625ec-e44e-42de-8235-6d28b0d97ca4-1595017630847.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/49e625ec-e44e-42de-8235-6d28b0d97ca4-1595017630847-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/49e625ec-e44e-42de-8235-6d28b0d97ca4-1595017630847-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/49e625ec-e44e-42de-8235-6d28b0d97ca4-1595105765420.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/49e625ec-e44e-42de-8235-6d28b0d97ca4-1595105765420-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/49e625ec-e44e-42de-8235-6d28b0d97ca4-1595105765420-ie8.css" /><![endif]-->\
       <div id="s-gradient_bg" class="pie rectangle firer ie-background commentable non-processed"   datasizewidth="375px" datasizeheight="208px" dataX="0" dataY="0" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\

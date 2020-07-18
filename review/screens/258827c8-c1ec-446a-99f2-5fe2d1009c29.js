@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595017630847.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595017630847-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595017630847-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595105765420.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595105765420-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1595105765420-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-258827c8-c1ec-446a-99f2-5fe2d1009c29" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer commentable non-processed" alignment="left" name="admin-dashboard" width="375" height="812">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/258827c8-c1ec-446a-99f2-5fe2d1009c29-1595017630847.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/258827c8-c1ec-446a-99f2-5fe2d1009c29-1595017630847-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/258827c8-c1ec-446a-99f2-5fe2d1009c29-1595017630847-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/258827c8-c1ec-446a-99f2-5fe2d1009c29-1595105765420.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/258827c8-c1ec-446a-99f2-5fe2d1009c29-1595105765420-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/258827c8-c1ec-446a-99f2-5fe2d1009c29-1595105765420-ie8.css" /><![endif]-->\
       <div id="s-gradient_bg" class="pie rectangle firer ie-background commentable non-processed"   datasizewidth="375px" datasizeheight="270px" dataX="0" dataY="0" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -27,8 +27,8 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
        </div>\
       </div>\
       <div id="s-location" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="153px" datasizeheight="23px" dataX="48" dataY="46" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-location_0">Palwal, Haryana</span></div></div></div></div>\
-      <div id="s-Group_3" class="group firer ie-background commentable non-processed" datasizewidth="336px" datasizeheight="144px" dataX="14" dataY="110" >\
-        <div id="s-solved-complaints" class="pie richtext firer click commentable non-processed"   datasizewidth="161px" datasizeheight="144px" dataX="0" dataY="0" >\
+      <div id="s-Group_3" class="group firer ie-background commentable non-processed" datasizewidth="356px" datasizeheight="144px" dataX="8" dataY="110" >\
+        <div id="s-solved-complaints" class="pie richtext firer commentable non-processed"   datasizewidth="170px" datasizeheight="144px" dataX="0" dataY="0" >\
           <div class="backgroundLayer"></div>\
           <div class="paddingLayer">\
             <div class="clipping">\
@@ -40,7 +40,7 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
             </div>\
           </div>\
         </div>\
-        <div id="s-solved-complaints-per-day" class="pie richtext firer click commentable non-processed"   datasizewidth="169px" datasizeheight="73px" dataX="167" dataY="0" >\
+        <div id="s-solved-complaints-per-day" class="pie richtext firer commentable non-processed"   datasizewidth="180px" datasizeheight="73px" dataX="176" dataY="0" >\
           <div class="backgroundLayer"></div>\
           <div class="paddingLayer">\
             <div class="clipping">\
@@ -52,7 +52,7 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
             </div>\
           </div>\
         </div>\
-        <div id="s-user-rating" class="pie richtext firer click commentable non-processed"   datasizewidth="169px" datasizeheight="66px" dataX="167" dataY="78" >\
+        <div id="s-user-rating" class="pie richtext firer commentable non-processed"   datasizewidth="180px" datasizeheight="66px" dataX="176" dataY="78" >\
           <div class="backgroundLayer"></div>\
           <div class="paddingLayer">\
             <div class="clipping">\
@@ -65,219 +65,225 @@ var content='<div class="ui-page" deviceName="iPhoneX" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Group_1" class="group firer ie-background commentable non-processed" datasizewidth="354px" datasizeheight="118px" dataX="12" dataY="269" >\
-        <div id="s-Department_1" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="4" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Department_1_0"> &nbsp;Electricity Departme</span><span id="rtr-s-Department_1_1">n</span><span id="rtr-s-Department_1_2">t</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-        <div id="s-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="251" dataY="30" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Rectangle_1_0">2</span><span id="rtr-s-Rectangle_1_1"> / 8</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-        <div id="shapewrapper-s-Ellipse_2" class="shapewrapper shapewrapper-s-Ellipse_2 non-processed"   datasizewidth="24px" datasizeheight="24px" dataX="330" dataY="0" >\
-            <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_2" class="svgContainer" style="width:100%; height:100%;">\
-                <g>\
-                    <g clip-path="url(#clip-s-Ellipse_2)">\
-                            <ellipse id="s-Ellipse_2" class="pie ellipse shape non-processed-shape firer commentable non-processed" cx="12.0" cy="12.0" rx="12.0" ry="12.0">\
-                            </ellipse>\
-                    </g>\
-                </g>\
-                <defs>\
-                    <clipPath id="clip-s-Ellipse_2" class="clipPath">\
-                            <ellipse cx="12.0" cy="12.0" rx="12.0" ry="12.0">\
-                            </ellipse>\
-                    </clipPath>\
-                </defs>\
-            </svg>\
-            <div class="shapert-clipping">\
-                <div id="shapert-s-Ellipse_2" class="content firer" >\
-                    <div class="valign">\
-                        <span id="rtr-s-Ellipse_2_0">2</span>\
+      <div id="s-Departments" class="pie dynamicpanel firer ie-background commentable non-processed" datasizewidth="375px" datasizeheight="543px" dataX="0" dataY="269" >\
+        <div id="s-Vertical" class="pie panel default firer ie-background commentable non-processed"  datasizewidth="375px" datasizeheight="543px" >\
+          <div class="backgroundLayer"></div>\
+          <div class="layoutWrapper scrollable">\
+              <table class="layout" summary="">\
+                <tr>\
+                  <td class="layout vertical insertionpoint verticalalign Vertical Departments" valign="top" align="center" hSpacing="0" vSpacing="12"><div id="s-Group_1" class="group firer ie-background commentable non-processed" datasizewidth="354px" datasizeheight="118px" dataX="9" dataY="0" >\
+                <div id="s-Department_1" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="4" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Department_1_0"> &nbsp;Electricity Departme</span><span id="rtr-s-Department_1_1">n</span><span id="rtr-s-Department_1_2">t</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+                <div id="s-Rectangle_1" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="251" dataY="30" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Rectangle_1_0">2</span><span id="rtr-s-Rectangle_1_1"> / 8</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+                <div id="shapewrapper-s-Ellipse_2" class="shapewrapper shapewrapper-s-Ellipse_2 non-processed"   datasizewidth="24px" datasizeheight="24px" dataX="330" dataY="0" >\
+                    <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_2" class="svgContainer" style="width:100%; height:100%;">\
+                        <g>\
+                            <g clip-path="url(#clip-s-Ellipse_2)">\
+                                    <ellipse id="s-Ellipse_2" class="pie ellipse shape non-processed-shape firer commentable non-processed" cx="12.0" cy="12.0" rx="12.0" ry="12.0">\
+                                    </ellipse>\
+                            </g>\
+                        </g>\
+                        <defs>\
+                            <clipPath id="clip-s-Ellipse_2" class="clipPath">\
+                                    <ellipse cx="12.0" cy="12.0" rx="12.0" ry="12.0">\
+                                    </ellipse>\
+                            </clipPath>\
+                        </defs>\
+                    </svg>\
+                    <div class="shapert-clipping">\
+                        <div id="shapert-s-Ellipse_2" class="content firer" >\
+                            <div class="valign">\
+                                <span id="rtr-s-Ellipse_2_0">2</span>\
+                            </div>\
+                        </div>\
                     </div>\
                 </div>\
-            </div>\
-        </div>\
-      </div>\
-      <div id="s-Group_2" class="group firer ie-background commentable non-processed" datasizewidth="354px" datasizeheight="120px" dataX="12" dataY="393" >\
-        <div id="s-Department_2" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="6" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Department_2_0"> &nbsp;Water Departmen</span><span id="rtr-s-Department_2_1">t</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-        <div id="s-Rectangle_2" class="pie rectangle firer commentable non-processed"   datasizewidth="103px" datasizeheight="66px" dataX="249" dataY="30" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Rectangle_2_0">2</span><span id="rtr-s-Rectangle_2_1"> / 10</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-        <div id="shapewrapper-s-Ellipse_1" class="shapewrapper shapewrapper-s-Ellipse_1 non-processed"   datasizewidth="24px" datasizeheight="24px" dataX="330" dataY="0" >\
-            <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_1" class="svgContainer" style="width:100%; height:100%;">\
-                <g>\
-                    <g clip-path="url(#clip-s-Ellipse_1)">\
-                            <ellipse id="s-Ellipse_1" class="pie ellipse shape non-processed-shape firer commentable non-processed" cx="12.0" cy="12.0" rx="12.0" ry="12.0">\
-                            </ellipse>\
-                    </g>\
-                </g>\
-                <defs>\
-                    <clipPath id="clip-s-Ellipse_1" class="clipPath">\
-                            <ellipse cx="12.0" cy="12.0" rx="12.0" ry="12.0">\
-                            </ellipse>\
-                    </clipPath>\
-                </defs>\
-            </svg>\
-            <div class="shapert-clipping">\
-                <div id="shapert-s-Ellipse_1" class="content firer" >\
-                    <div class="valign">\
-                        <span id="rtr-s-Ellipse_1_0">3</span>\
+              </div><div id="s-Group_2" class="group firer ie-background commentable non-processed" datasizewidth="354px" datasizeheight="120px" dataX="9" dataY="130" >\
+                <div id="s-Department_2" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="6" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Department_2_0"> &nbsp;Water Departmen</span><span id="rtr-s-Department_2_1">t</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+                <div id="s-Rectangle_2" class="pie rectangle firer commentable non-processed"   datasizewidth="103px" datasizeheight="66px" dataX="249" dataY="30" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Rectangle_2_0">2</span><span id="rtr-s-Rectangle_2_1"> / 10</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+                <div id="shapewrapper-s-Ellipse_1" class="shapewrapper shapewrapper-s-Ellipse_1 non-processed"   datasizewidth="24px" datasizeheight="24px" dataX="330" dataY="0" >\
+                    <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_1" class="svgContainer" style="width:100%; height:100%;">\
+                        <g>\
+                            <g clip-path="url(#clip-s-Ellipse_1)">\
+                                    <ellipse id="s-Ellipse_1" class="pie ellipse shape non-processed-shape firer commentable non-processed" cx="12.0" cy="12.0" rx="12.0" ry="12.0">\
+                                    </ellipse>\
+                            </g>\
+                        </g>\
+                        <defs>\
+                            <clipPath id="clip-s-Ellipse_1" class="clipPath">\
+                                    <ellipse cx="12.0" cy="12.0" rx="12.0" ry="12.0">\
+                                    </ellipse>\
+                            </clipPath>\
+                        </defs>\
+                    </svg>\
+                    <div class="shapert-clipping">\
+                        <div id="shapert-s-Ellipse_1" class="content firer" >\
+                            <div class="valign">\
+                                <span id="rtr-s-Ellipse_1_0">3</span>\
+                            </div>\
+                        </div>\
                     </div>\
                 </div>\
-            </div>\
-        </div>\
-      </div>\
-      <div id="s-Group_4" class="group firer ie-background commentable non-processed" datasizewidth="352px" datasizeheight="114px" dataX="13" dataY="525" >\
-        <div id="s-Department_3" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="0" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Department_3_0"> &nbsp;Infrastructure Depar...</span>\
+              </div><div id="s-Group_4" class="group firer ie-background commentable non-processed" datasizewidth="352px" datasizeheight="114px" dataX="10" dataY="262" >\
+                <div id="s-Department_3" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="0" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Department_3_0"> &nbsp;Infrastructure Depar...</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+                <div id="s-Rectangle_3" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="250" dataY="26" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Rectangle_3_0">2</span><span id="rtr-s-Rectangle_3_1"> / 6</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+              </div><div id="s-Group_5" class="group firer ie-background commentable non-processed" datasizewidth="352px" datasizeheight="114px" dataX="10" dataY="388" >\
+                <div id="s-Department_4" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="0" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Department_4_0"> &nbsp;IT Department</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+                <div id="s-Rectangle_4" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="253" dataY="26" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Rectangle_4_0">2</span><span id="rtr-s-Rectangle_4_1"> / 6</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+              </div><div id="s-Group_6" class="group firer ie-background commentable non-processed" datasizewidth="352px" datasizeheight="114px" dataX="10" dataY="514" >\
+                <div id="s-Department_5" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="0" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Department_5_0"> &nbsp;XYZ department</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+                <div id="s-Rectangle_5" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="251" dataY="26" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Rectangle_5_0">2</span><span id="rtr-s-Rectangle_5_1"> / 6</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+              </div><div id="s-Group_7" class="group firer ie-background commentable non-processed" datasizewidth="356px" datasizeheight="118px" dataX="8" dataY="640" >\
+                <div id="s-Department_6" class="pie rectangle firer click commentable non-processed"   datasizewidth="356px" datasizeheight="118px" dataX="0" dataY="0" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Department_6_0"></span><span id="rtr-s-Department_6_1"> &nbsp;Invalid complaints</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+                <div id="s-Rectangle_7" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="240" dataY="28" >\
+                 <div class="backgroundLayer"></div>\
+                 <div class="paddingLayer">\
+                   <div class="clipping">\
+                     <div class="content">\
+                       <div class="valign">\
+                         <span id="rtr-s-Rectangle_7_0">42</span>\
+                       </div>\
+                     </div>\
+                   </div>\
+                 </div>\
+                </div>\
+              </div><div id="s-padding" class="pie rectangle firer commentable non-processed"   datasizewidth="372px" datasizeheight="83px" dataX="0" dataY="770" >\
+               <div class="backgroundLayer"></div>\
+               <div class="paddingLayer">\
+                 <div class="clipping">\
+                   <div class="content">\
+                     <div class="valign">\
+                       <span id="rtr-s-padding_0"></span>\
+                     </div>\
+                   </div>\
+                 </div>\
                </div>\
-             </div>\
-           </div>\
-         </div>\
+              </div></td> \
+                </tr>\
+              </table>\
+\
+          </div>\
         </div>\
-        <div id="s-Rectangle_3" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="250" dataY="26" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Rectangle_3_0">2</span><span id="rtr-s-Rectangle_3_1"> / 6</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-      </div>\
-      <div id="s-Group_5" class="group firer ie-background commentable non-processed" datasizewidth="352px" datasizeheight="114px" dataX="10" dataY="650" >\
-        <div id="s-Department_4" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="0" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Department_4_0"> &nbsp;IT Department</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-        <div id="s-Rectangle_4" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="253" dataY="26" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Rectangle_4_0">2</span><span id="rtr-s-Rectangle_4_1"> / 6</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-      </div>\
-      <div id="s-Group_6" class="group firer ie-background commentable non-processed" datasizewidth="352px" datasizeheight="114px" dataX="12" dataY="776" >\
-        <div id="s-Department_5" class="pie rectangle firer click commentable non-processed"   datasizewidth="352px" datasizeheight="114px" dataX="0" dataY="0" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Department_5_0"> &nbsp;XYZ department</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-        <div id="s-Rectangle_5" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="251" dataY="26" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Rectangle_5_0">2</span><span id="rtr-s-Rectangle_5_1"> / 6</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-      </div>\
-      <div id="s-Group_7" class="group firer ie-background commentable non-processed" datasizewidth="356px" datasizeheight="118px" dataX="11" dataY="904" >\
-        <div id="s-Department_6" class="pie rectangle firer click commentable non-processed"   datasizewidth="356px" datasizeheight="118px" dataX="0" dataY="0" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Department_6_0"></span><span id="rtr-s-Department_6_1"> &nbsp;Invalid complaints</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-        <div id="s-Rectangle_7" class="pie rectangle firer commentable non-processed"   datasizewidth="99px" datasizeheight="62px" dataX="240" dataY="28" >\
-         <div class="backgroundLayer"></div>\
-         <div class="paddingLayer">\
-           <div class="clipping">\
-             <div class="content">\
-               <div class="valign">\
-                 <span id="rtr-s-Rectangle_7_0">42</span>\
-               </div>\
-             </div>\
-           </div>\
-         </div>\
-        </div>\
-      </div>\
-      <div id="s-padding" class="pie rectangle firer commentable non-processed"   datasizewidth="372px" datasizeheight="83px" dataX="0" dataY="1037" >\
-       <div class="backgroundLayer"></div>\
-       <div class="paddingLayer">\
-         <div class="clipping">\
-           <div class="content">\
-             <div class="valign">\
-               <span id="rtr-s-padding_0"></span>\
-             </div>\
-           </div>\
-         </div>\
-       </div>\
       </div>\
       <div id="s-Image_20" class="pie image firer ie-background commentable pin hpin-beginning non-processed-pin non-processed"   datasizewidth="36px" datasizeheight="36px" dataX="314" dataY="40"   alt="image" systemName="./images/2d7784da-ee3b-480d-8d68-8779e5648fdb.svg" overlay="">\
           <?xml version="1.0" encoding="UTF-8"?>\

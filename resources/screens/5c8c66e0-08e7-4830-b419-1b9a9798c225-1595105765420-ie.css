@@ -1,3 +1,6 @@
+#s-5c8c66e0-08e7-4830-b419-1b9a9798c225 #s-vertical > .valign {
+  vertical-align: top;
+}
 #s-5c8c66e0-08e7-4830-b419-1b9a9798c225 #s-Rectangle_1 {
   -ms-transform: rotate(0.0deg);
 }
@@ -172,6 +175,8 @@
   border-left-style: solid;
   border-left-color: #4CD864;
   border-radius: 16px 16px 16px 16px;
+  -pie-background: linear-gradient(to right,#3D84FA,#34AFFF);
+  -pie-poll: false;
   -ms-transform: rotate(0.0deg);
 }
 #s-5c8c66e0-08e7-4830-b419-1b9a9798c225 #s-Ellipse_11 {
@@ -218,6 +223,8 @@
   border-left-style: solid;
   border-left-color: #4CD864;
   border-radius: 16px 16px 16px 16px;
+  -pie-background: linear-gradient(to right,#F4B601,#FFEE77);
+  -pie-poll: false;
   -ms-transform: rotate(0.0deg);
 }
 #s-5c8c66e0-08e7-4830-b419-1b9a9798c225 #s-Ellipse_13 {
@@ -244,7 +251,7 @@
 #s-5c8c66e0-08e7-4830-b419-1b9a9798c225 #s-Ellipse_14 {
   stroke-width: 2px;
   stroke: #D9D9D9;
-  -pie-background: linear-gradient(to right,#F4B601,#F7C542);
+  -pie-background: linear-gradient(to right,#F4B601,#FFEE77);
   -pie-poll: false;
   -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=99);
   filter: alpha(opacity=99);
@@ -264,6 +271,8 @@
   border-left-style: solid;
   border-left-color: #4CD864;
   border-radius: 16px 16px 16px 16px;
+  -pie-background: linear-gradient(to right,#51B328,#85EB29);
+  -pie-poll: false;
   -ms-transform: rotate(0.0deg);
 }
 #s-5c8c66e0-08e7-4830-b419-1b9a9798c225 #s-Ellipse_15 {
@@ -290,7 +299,7 @@
 #s-5c8c66e0-08e7-4830-b419-1b9a9798c225 #s-Ellipse_16 {
   stroke-width: 2px;
   stroke: #D9D9D9;
-  -pie-background: linear-gradient(to right,#51B328,#36DC54);
+  -pie-background: linear-gradient(to right,#51B328,#85EB29);
   -pie-poll: false;
   -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=99);
   filter: alpha(opacity=99);
